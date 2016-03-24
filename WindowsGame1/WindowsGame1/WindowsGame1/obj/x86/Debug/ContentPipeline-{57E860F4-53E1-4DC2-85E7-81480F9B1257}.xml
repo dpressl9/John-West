@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Room_Assets\Room_1\GroundTile1.bmp</Source>
+      <Name>Room_Assets\Room_1\GroundTile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\GroundTile1.xnb</Output>
+      <Time>2016-03-15T01:17:17.8856079-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\ROOM1_FLOOR.bmp</Source>
+      <Name>Room_Assets\Room_1\ROOM1_FLOOR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\ROOM1_FLOOR.xnb</Output>
+      <Time>2016-03-19T04:42:48.9482423-04:00</Time>
+    </Item>
+    <Item>
+      <Source>John_West\JohnWestSemifinal.bmp</Source>
+      <Name>John_West\JohnWestSemifinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\John_West\JohnWestSemifinal.xnb</Output>
+      <Time>2016-03-19T05:35:00.3858582-04:00</Time>
+    </Item>
+    <Item>
+      <Source>John_West\JohnWest_LEFT.bmp</Source>
+      <Name>John_West\JohnWest_LEFT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\John_West\JohnWest_LEFT.xnb</Output>
+      <Time>2016-03-19T23:19:37.2462919-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\ROOM1_WALLS.bmp</Source>
+      <Name>Room_Assets\Room_1\ROOM1_WALLS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\ROOM1_WALLS.xnb</Output>
+      <Time>2016-03-19T23:59:50.4949812-04:00</Time>
+    </Item>
+    <Item>
+      <Source>John_West\JohnWest_LEFT_DOWNSCALE.bmp</Source>
+      <Name>John_West\JohnWest_LEFT_DOWNSCALE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\John_West\JohnWest_LEFT_DOWNSCALE.xnb</Output>
+      <Time>2016-03-23T19:52:33.0718984-04:00</Time>
+    </Item>
+    <Item>
+      <Source>John_West\JohnWest_RIGHT_DOWNSCALE.bmp</Source>
+      <Name>John_West\JohnWest_RIGHT_DOWNSCALE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\John_West\JohnWest_RIGHT_DOWNSCALE.xnb</Output>
+      <Time>2016-03-23T19:54:31.6389032-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\ROOM1_SWITCH.bmp</Source>
+      <Name>Room_Assets\Room_1\ROOM1_SWITCH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\ROOM1_SWITCH.xnb</Output>
+      <Time>2016-03-23T19:34:31.9707172-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\ROOM1_SWITCH_DOWN.bmp</Source>
+      <Name>Room_Assets\Room_1\ROOM1_SWITCH_DOWN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\ROOM1_SWITCH_DOWN.xnb</Output>
+      <Time>2016-03-23T19:34:33.5195481-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\ROOM1_SWITCH_UP.bmp</Source>
+      <Name>Room_Assets\Room_1\ROOM1_SWITCH_UP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\ROOM1_SWITCH_UP.xnb</Output>
+      <Time>2016-03-23T19:34:33.9817273-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\ROOM1_BACKGROUND.bmp</Source>
+      <Name>Room_Assets\Room_1\ROOM1_BACKGROUND</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\ROOM1_BACKGROUND.xnb</Output>
+      <Time>2016-03-20T01:43:29.7013705-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ws1.wav</Source>
+      <Name>ws1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ws1.xnb</Output>
+      <Time>2016-03-20T19:56:41.636118-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\HATCHET.bmp</Source>
+      <Name>Room_Assets\Room_1\HATCHET</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\HATCHET.xnb</Output>
+      <Time>2016-03-23T19:34:26.5586358-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\PICKAXE.bmp</Source>
+      <Name>Room_Assets\Room_1\PICKAXE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\PICKAXE.xnb</Output>
+      <Time>2016-03-23T19:34:26.6197674-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\ROOM_DOOR_LEFT.bmp</Source>
+      <Name>Room_Assets\Room_1\ROOM_DOOR_LEFT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\ROOM_DOOR_LEFT.xnb</Output>
+      <Time>2016-03-23T19:34:26.6242679-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\ROOM_DOOR_OPEN_Right.bmp</Source>
+      <Name>Room_Assets\Room_1\ROOM_DOOR_OPEN_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\ROOM_DOOR_OPEN_Right.xnb</Output>
+      <Time>2016-03-23T19:34:26.6327694-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\ROOM_DOOR_RIGHT.bmp</Source>
+      <Name>Room_Assets\Room_1\ROOM_DOOR_RIGHT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\ROOM_DOOR_RIGHT.xnb</Output>
+      <Time>2016-03-23T19:34:26.6362699-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\TORCH_1.bmp</Source>
+      <Name>Room_Assets\Room_1\TORCH_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\TORCH_1.xnb</Output>
+      <Time>2016-03-23T19:34:33.9847279-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\DOOR_TOP_BLUE.bmp</Source>
+      <Name>Room_Assets\Room_1\DOOR_TOP_BLUE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\DOOR_TOP_BLUE.xnb</Output>
+      <Time>2016-03-23T20:12:23.5725312-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\DOOR_TOP_DEFAULT.bmp</Source>
+      <Name>Room_Assets\Room_1\DOOR_TOP_DEFAULT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\DOOR_TOP_DEFAULT.xnb</Output>
+      <Time>2016-03-23T20:24:30.1996039-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Room_Assets\Room_1\ROOM1_BACKGROUND_TOP_DOOR.bmp</Source>
+      <Name>Room_Assets\Room_1\ROOM1_BACKGROUND_TOP_DOOR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Room_Assets\Room_1\ROOM1_BACKGROUND_TOP_DOOR.xnb</Output>
+      <Time>2016-03-23T21:28:14.9276556-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{57E860F4-53E1-4DC2-85E7-81480F9B1257}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dexter\documents\visual studio 2015\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-03-14T23:56:01.4760018-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
